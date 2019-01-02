@@ -1,0 +1,57 @@
+Bisharp (M) @ Dread Plate  
+Ability: Defiant  
+EVs: 252 Atk / 252 Def / 4 SpD  
+Adamant Nature  
+- Sucker Punch  
+- Iron Head  
+- Swords Dance  
+- Knock Off  
+
+Tentacruel (F) @ Waterium Z  
+Ability: Clear Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Scald  
+- Sludge Bomb  
+- Haze  
+- Rapid Spin  
+
+Staraptor (M) @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Quick Attack  
+- Close Combat  
+- U-turn  
+
+Manectric (F) @ Manectite  
+Ability: Lightning Rod  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flamethrower  
+- Hidden Power [Ice]  
+- Volt Switch  
+
+Whimsicott (F) @ Pixie Plate  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Encore  
+- Tailwind  
+- Taunt  
+
+Garchomp (M) @ Red Card  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Claw  
+- Earthquake  
+- Poison Jab  
+- Stealth Rock  
+

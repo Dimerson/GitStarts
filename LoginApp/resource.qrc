@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/Asuma.png</file>
+        <file>img/India.jpg</file>
+    </qresource>
+</RCC>
